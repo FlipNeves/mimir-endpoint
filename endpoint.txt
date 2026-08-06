@@ -1,0 +1,2 @@
+https://example.trycloudflare.com
+atualizado: inicial
